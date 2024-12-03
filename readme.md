@@ -1,6 +1,6 @@
-# breakfasts's super calculator
+# breakfast's super calculator
 ## overview
-breakfasts's super calculator is program by me, originally created for my ap computer science class. it features a buncha cool stuff like addition (+), subtraction (-), multiplication (*), division (/), modulus (%), and exponents (^)! more features coming in the near future :3
+breakfast's super calculator is program by me, originally created for my ap computer science class. it features a buncha cool stuff like addition (+), subtraction (-), multiplication (*), division (/), modulus (%), and exponents (^)! more features coming in the near future :3
 
 ## how to use
 ### forming equations
