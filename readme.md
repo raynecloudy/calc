@@ -1,6 +1,6 @@
-# hayley's super calculator
+# breakfasts's super calculator
 ## overview
-hayley's super calculator is program by hayley breakfast, originally created for her ap computer science class. it features a buncha cool stuff like addition (+), subtraction (-), multiplication (*), division (/), modulus (%), and exponents (^)! more features coming in the near future :3
+breakfasts's super calculator is program by hayley breakfast, originally created for her ap computer science class. it features a buncha cool stuff like addition (+), subtraction (-), multiplication (*), division (/), modulus (%), and exponents (^)! more features coming in the near future :3
 
 ## how to use
 ### forming equations
