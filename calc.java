@@ -11,7 +11,7 @@ public class calc {
 
 	public static void main(String[] args) {
 		cls();
-		System.out.println("\u001b[1mwelcome to \u001b[35mhayley's \u001b[36msuper \u001b[34mcalculator\u001b[0m!!!!!");
+		System.out.println("\u001b[1mwelcome to \u001b[35mrayne's \u001b[36msuper \u001b[34mcalculator\u001b[0m!!!!!");
 		while (true) {
 			System.out.println("enter an equation to run (or type \"info\", \"settings\" or \"quit\")");
 			Scanner mroww = new Scanner(System.in);
@@ -19,7 +19,7 @@ public class calc {
 			if (nyaa.equalsIgnoreCase("info")) {
 			    cls();
 			    System.out.println("\u001b[1m\u001b[35m** about hayley's super calculator *\u001b[0m*");
-			    System.out.println("hayley's super calculator is program by hayley breakfast, originally created for her ap computer science class. it features a buncha cool stuff like addition (+), subtraction (-), multiplication (*), division (/), modulus (%), and exponents (^)! more features coming in the near future :3");
+			    System.out.println("rayne's super calculator is program by rayne cloudy, originally created for their ap computer science class. it features a buncha cool stuff like addition (+), subtraction (-), multiplication (*), division (/), modulus (%), and exponents (^)! more features coming in the near future :3");
 			    System.out.println("equation format: [num1] [operator] [num2]");
 			    System.out.println("\u001b[1m\u001b[35m** environment variables **\u001b[0m");
 			    System.out.println("\"ans\": the answer to the last equation ran by the calculator (if no previous equation, 0.0 is returned)");
